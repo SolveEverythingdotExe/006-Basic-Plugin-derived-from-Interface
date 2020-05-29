@@ -1,0 +1,10 @@
+E:\Projects\C#\YT\006\PluginStructure\PluginStructure\bin\Release\PluginStructure.dll
+E:\Projects\C#\YT\006\PluginStructure\PluginStructure\bin\Release\PluginStructure.pdb
+E:\Projects\C#\YT\006\PluginStructure\PluginStructure\obj\Release\PluginStructure.dll
+E:\Projects\C#\YT\006\PluginStructure\PluginStructure\obj\Release\PluginStructure.pdb
+D:\Projects\C#\YT\SolveEverything.exe\006 - Basic Plugin derived from Interface\PluginStructure\PluginStructure\bin\Release\PluginStructure.dll
+D:\Projects\C#\YT\SolveEverything.exe\006 - Basic Plugin derived from Interface\PluginStructure\PluginStructure\bin\Release\PluginStructure.pdb
+D:\Projects\C#\YT\SolveEverything.exe\006 - Basic Plugin derived from Interface\PluginStructure\PluginStructure\obj\Release\PluginStructure.csprojAssemblyReference.cache
+D:\Projects\C#\YT\SolveEverything.exe\006 - Basic Plugin derived from Interface\PluginStructure\PluginStructure\obj\Release\PluginStructure.csproj.CoreCompileInputs.cache
+D:\Projects\C#\YT\SolveEverything.exe\006 - Basic Plugin derived from Interface\PluginStructure\PluginStructure\obj\Release\PluginStructure.dll
+D:\Projects\C#\YT\SolveEverything.exe\006 - Basic Plugin derived from Interface\PluginStructure\PluginStructure\obj\Release\PluginStructure.pdb

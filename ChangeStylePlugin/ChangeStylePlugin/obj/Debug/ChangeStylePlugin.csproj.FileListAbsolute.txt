@@ -1,0 +1,15 @@
+E:\Projects\C#\YT\006\ChangeStylePlugin\ChangeStylePlugin\bin\Debug\ChangeStylePlugin.dll
+E:\Projects\C#\YT\006\ChangeStylePlugin\ChangeStylePlugin\bin\Debug\ChangeStylePlugin.pdb
+E:\Projects\C#\YT\006\ChangeStylePlugin\ChangeStylePlugin\bin\Debug\PluginStructure.dll
+E:\Projects\C#\YT\006\ChangeStylePlugin\ChangeStylePlugin\bin\Debug\PluginStructure.pdb
+E:\Projects\C#\YT\006\ChangeStylePlugin\ChangeStylePlugin\obj\Debug\ChangeStylePlugin.dll
+E:\Projects\C#\YT\006\ChangeStylePlugin\ChangeStylePlugin\obj\Debug\ChangeStylePlugin.pdb
+D:\Projects\C#\YT\SolveEverything.exe\006 - Basic Plugin derived from Interface\ChangeStylePlugin\ChangeStylePlugin\bin\Debug\ChangeStylePlugin.dll
+D:\Projects\C#\YT\SolveEverything.exe\006 - Basic Plugin derived from Interface\ChangeStylePlugin\ChangeStylePlugin\bin\Debug\ChangeStylePlugin.pdb
+D:\Projects\C#\YT\SolveEverything.exe\006 - Basic Plugin derived from Interface\ChangeStylePlugin\ChangeStylePlugin\bin\Debug\PluginStructure.dll
+D:\Projects\C#\YT\SolveEverything.exe\006 - Basic Plugin derived from Interface\ChangeStylePlugin\ChangeStylePlugin\bin\Debug\PluginStructure.pdb
+D:\Projects\C#\YT\SolveEverything.exe\006 - Basic Plugin derived from Interface\ChangeStylePlugin\ChangeStylePlugin\obj\Debug\ChangeStylePlugin.csprojAssemblyReference.cache
+D:\Projects\C#\YT\SolveEverything.exe\006 - Basic Plugin derived from Interface\ChangeStylePlugin\ChangeStylePlugin\obj\Debug\ChangeStylePlugin.csproj.CoreCompileInputs.cache
+D:\Projects\C#\YT\SolveEverything.exe\006 - Basic Plugin derived from Interface\ChangeStylePlugin\ChangeStylePlugin\obj\Debug\ChangeStylePlugin.csproj.CopyComplete
+D:\Projects\C#\YT\SolveEverything.exe\006 - Basic Plugin derived from Interface\ChangeStylePlugin\ChangeStylePlugin\obj\Debug\ChangeStylePlugin.dll
+D:\Projects\C#\YT\SolveEverything.exe\006 - Basic Plugin derived from Interface\ChangeStylePlugin\ChangeStylePlugin\obj\Debug\ChangeStylePlugin.pdb
